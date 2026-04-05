@@ -5,5 +5,6 @@ The dashboard provides actionable insights for tourism authorities, and policyma
 
 # Objectives
 *. Analyze visitor trends over time
+*. Identify top-performing nationalities
   
 
