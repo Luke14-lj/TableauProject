@@ -4,6 +4,6 @@ This project presents a Tourism Analytics Dashboard built using Tableau to analy
 The dashboard provides actionable insights for tourism authorities, and policymakers to make data-driven decisions.
 
 # Objectives
-# *. Analyze visitor trends over time
+*. Analyze visitor trends over time
   
 
