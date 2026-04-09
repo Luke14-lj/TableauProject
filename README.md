@@ -21,6 +21,8 @@ Overstay: Those who exceeded their stay generate $94K, slightly lower than activ
 
 Despite longer stays, overstaying tourists contributed less to revenue, with their spending amounting to $94,000 compared to compliant visitors' total of $1 million. This indicates a negative impact on tourism revenue efficiency.
 
+![image alt](https://github.com/Luke14-lj/TableauProject/blob/a5af033d7549f3362206e641ca552c532d3c49fc/Tourism%20Database%20analytic.JPG)
+
 Disclaimer
 This dataset is synthetic and created for educational and analytical purposes only. 
 It does not represent real individuals or actual immigration records.
